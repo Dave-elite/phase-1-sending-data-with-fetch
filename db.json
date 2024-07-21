@@ -1,30 +1,765 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "de50",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6c3d",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "79f5",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "d8f0",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "cb4c",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "536a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "305a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "637a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "09cd",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4b60",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "bb73",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "8287",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "3577",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "eb67",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "c458",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6b5e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6528",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "fe5f",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "3304",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "8763",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "7d5a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "7051",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "9e0a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "01ac",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "f9a9",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "e19a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "b4e3",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "9716",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "63b3",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6022",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "a9a9",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6e10",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "91d9",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "258e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "a32b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "e70d",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "71ad",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "bfcf",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "a874",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "72e9",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "3b7c",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "d277",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "bf6e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "c7e0",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "bed8",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "a44f",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "556d",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6fc0",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "bfb8",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "508b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "31b8",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "c360",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "963a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "87ef",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0c90",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4344",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "f63b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4ec3",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6d75",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "aaba",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "fce5",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "fa6f",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "45b9",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "7354",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "98f0",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "a38c",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "dc3e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "f104",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "485e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "bc33",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0149",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6698",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "1342",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "c4b7",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0808",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "8e06",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "9508",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "34b3",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4c67",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "3c8b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0c53",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "b0ea",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "e100",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6537",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "9563",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "64cf",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "1cfd",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "940d",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "10f5",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "5c42",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "e011",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "e671",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "758b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "d603",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "d1af",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0829",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6dbf",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "f48e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "757d",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "f35f",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "361a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "e8d7",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "2f46",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "ab67",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "5378",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "b94e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "08c1",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "fe1b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "58d5",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "a536",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4c71",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "6850",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "3c64",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4454",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4fad",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "3cae",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "510b",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "88b8",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "7b84",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4ae5",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "b585",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0e32",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "5970",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "4f1f",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "303f",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "7817",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "a013",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "382a",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "21d4",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "2166",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "852d",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "232c",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "bb67",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "e42f",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "95dd",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "8a37",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "53ad",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0372",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "3410",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0fe8",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "f4e9",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0777",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "8c7c",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "d45e",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "34ad",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "7729",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
